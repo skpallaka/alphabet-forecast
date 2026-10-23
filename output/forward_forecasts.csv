@@ -1,0 +1,91 @@
+segment,model,quarter,forecast_musd
+Search & other,ETS,2026-09-30,66577.38525085177
+Search & other,ETS,2026-12-31,74188.73902515939
+Search & other,ETS,2027-03-31,69916.57129386226
+Search & other,ETS,2027-06-30,72069.74127049255
+Search & other,ETS,2027-09-30,75782.34582911697
+Search & other,ETS,2027-12-31,84386.7013990332
+Search & other,SARIMA,2026-09-30,65377.51647626524
+Search & other,SARIMA,2026-12-31,72558.6748211217
+Search & other,SARIMA,2027-03-31,69222.50864985408
+Search & other,SARIMA,2027-06-30,72793.22511586396
+Search & other,SARIMA,2027-09-30,75298.65295221526
+Search & other,SARIMA,2027-12-31,83569.56287888033
+Search & other,Excel growth model (Base),2026-09-30,65098.3975696623
+Search & other,Excel growth model (Base),2026-12-31,71634.36537239344
+Search & other,Excel growth model (Base),2027-03-31,67777.56319525743
+Search & other,Excel growth model (Base),2027-06-30,70227.4755167208
+Search & other,Excel growth model (Base),2027-09-30,71540.05121800042
+Search & other,Excel growth model (Base),2027-12-31,78013.92937776395
+YouTube ads,ETS,2026-09-30,11405.073159025716
+YouTube ads,ETS,2026-12-31,13225.908493939369
+YouTube ads,ETS,2027-03-31,10963.151122974188
+YouTube ads,ETS,2027-06-30,11660.11429717289
+YouTube ads,ETS,2027-09-30,11999.396500758481
+YouTube ads,ETS,2027-12-31,13873.126983003101
+YouTube ads,SARIMA,2026-09-30,11592.493974056515
+YouTube ads,SARIMA,2026-12-31,12946.772523405783
+YouTube ads,SARIMA,2027-03-31,11219.483471581478
+YouTube ads,SARIMA,2027-06-30,12517.128071561236
+YouTube ads,SARIMA,2027-09-30,13120.53919778829
+YouTube ads,SARIMA,2027-12-31,14653.329711307371
+YouTube ads,Excel growth model (Base),2026-09-30,11447.886392405064
+YouTube ads,Excel growth model (Base),2026-12-31,12568.00097692936
+YouTube ads,Excel growth model (Base),2027-03-31,10808.962241016743
+YouTube ads,Excel growth model (Base),2027-06-30,11987.192787311147
+YouTube ads,Excel growth model (Base),2027-09-30,12316.676389009468
+YouTube ads,Excel growth model (Base),2027-12-31,13426.41779175582
+Network,ETS,2026-09-30,7418.17755532476
+Network,ETS,2026-12-31,8257.325822715577
+Network,ETS,2027-03-31,7300.671047260098
+Network,ETS,2027-06-30,7382.42754723549
+Network,ETS,2027-09-30,7492.0071728928515
+Network,ETS,2027-12-31,8332.531939334347
+Network,SARIMA,2026-09-30,7438.585455134273
+Network,SARIMA,2026-12-31,7911.125681466906
+Network,SARIMA,2027-03-31,7065.780816490037
+Network,SARIMA,2027-06-30,7367.44762330918
+Network,SARIMA,2027-09-30,7486.147908844218
+Network,SARIMA,2027-12-31,7961.70956617023
+Network,Excel growth model (Base),2026-09-30,7308.1
+Network,Excel growth model (Base),2026-12-31,7784.027375577917
+Network,Excel growth model (Base),2027-03-31,6935.757300924667
+Network,Excel growth model (Base),2027-06-30,7269.770952774001
+Network,Excel growth model (Base),2027-09-30,7278.172972746941
+Network,Excel growth model (Base),2027-12-31,7755.338999739227
+"Subscriptions, platforms & devices",ETS,2026-09-30,13525.592556266512
+"Subscriptions, platforms & devices",ETS,2026-12-31,16041.618593678995
+"Subscriptions, platforms & devices",ETS,2027-03-31,13767.908037413501
+"Subscriptions, platforms & devices",ETS,2027-06-30,14467.83171296688
+"Subscriptions, platforms & devices",ETS,2027-09-30,15120.329911103134
+"Subscriptions, platforms & devices",ETS,2027-12-31,17886.833672890367
+"Subscriptions, platforms & devices",SARIMA,2026-09-30,14470.280123277345
+"Subscriptions, platforms & devices",SARIMA,2026-12-31,16188.123899038768
+"Subscriptions, platforms & devices",SARIMA,2027-03-31,14338.716976861377
+"Subscriptions, platforms & devices",SARIMA,2027-06-30,15148.115037116002
+"Subscriptions, platforms & devices",SARIMA,2027-09-30,16934.612006684296
+"Subscriptions, platforms & devices",SARIMA,2027-12-31,18945.009703396507
+"Subscriptions, platforms & devices",Excel growth model (Base),2026-09-30,14635.934481835222
+"Subscriptions, platforms & devices",Excel growth model (Base),2026-12-31,15254.773314290813
+"Subscriptions, platforms & devices",Excel growth model (Base),2027-03-31,13760.391563688298
+"Subscriptions, platforms & devices",Excel growth model (Base),2027-06-30,14202.467403981076
+"Subscriptions, platforms & devices",Excel growth model (Base),2027-09-30,15953.543426075294
+"Subscriptions, platforms & devices",Excel growth model (Base),2027-12-31,16490.761573707347
+Google Cloud,ETS,2026-09-30,30085.624521263915
+Google Cloud,ETS,2026-12-31,36594.69170308921
+Google Cloud,ETS,2027-03-31,42566.023618478444
+Google Cloud,ETS,2027-06-30,52156.843999090124
+Google Cloud,ETS,2027-09-30,63454.910448707305
+Google Cloud,ETS,2027-12-31,76896.00302301177
+Google Cloud,SARIMA,2026-09-30,29274.674054547333
+Google Cloud,SARIMA,2026-12-31,32178.93195117881
+Google Cloud,SARIMA,2027-03-31,33950.72358578248
+Google Cloud,SARIMA,2027-06-30,38065.69867761699
+Google Cloud,SARIMA,2027-09-30,42274.44776901228
+Google Cloud,SARIMA,2027-12-31,46468.37657348407
+Google Cloud,Excel growth model (Base),2026-09-30,26315.150851438637
+Google Cloud,Excel growth model (Base),2026-12-31,29367.3594362889
+Google Cloud,Excel growth model (Base),2027-03-31,31970.674055196712
+Google Cloud,Excel growth model (Base),2027-06-30,38060.21769019377
+Google Cloud,Excel growth model (Base),2027-09-30,39025.42387715123
+Google Cloud,Excel growth model (Base),2027-12-31,42133.40598977679

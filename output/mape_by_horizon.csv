@@ -1,0 +1,8 @@
+model,1,2,3,4
+Naive,8.0,9.4,11.3,13.7
+Seasonal naive,12.4,12.7,13.1,13.7
+YoY growth (last),4.2,6.0,7.1,8.0
+YoY growth (faded),4.2,5.8,7.1,8.5
+YoY growth (avg 4Q),6.7,7.7,8.2,8.4
+ETS,4.5,6.6,7.3,8.2
+SARIMA,4.4,6.3,7.2,8.1
